@@ -1,0 +1,379 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC9F8F2-75A6-4A2D-83BA-B6DF46F6A2E0}|UstaPlatform.App\\UstaPlatform.App.csproj|c:\\users\\baris\\onedrive\\\uBB38\uC11C\\desktop\\new folder (3)\\bm1\\ustaplatform\\ustaplatform.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC9F8F2-75A6-4A2D-83BA-B6DF46F6A2E0}|UstaPlatform.App\\UstaPlatform.App.csproj|solutionrelative:ustaplatform.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED8BD6C-3D6C-43D8-A195-915FA995224A}|Mahalle2\\Mahalle2.csproj|c:\\users\\baris\\onedrive\\\uBB38\uC11C\\desktop\\new folder (3)\\bm1\\ustaplatform\\mahalle2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED8BD6C-3D6C-43D8-A195-915FA995224A}|Mahalle2\\Mahalle2.csproj|solutionrelative:mahalle2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34325B9-2839-4D51-9E5F-A21185EC3D94}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|c:\\users\\baris\\onedrive\\\uBB38\uC11C\\desktop\\new folder (3)\\bm1\\ustaplatform\\ustaplatform.domain\\ustaplatform.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D34325B9-2839-4D51-9E5F-A21185EC3D94}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|solutionrelative:ustaplatform.domain\\ustaplatform.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34325B9-2839-4D51-9E5F-A21185EC3D94}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|c:\\users\\baris\\onedrive\\\uBB38\uC11C\\desktop\\new folder (3)\\bm1\\ustaplatform\\ustaplatform.domain\\vatandas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34325B9-2839-4D51-9E5F-A21185EC3D94}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|solutionrelative:ustaplatform.domain\\vatandas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E10826-A5DC-465B-AEAF-3AEDDEA42ECF}|UstaPlatform.Infrastructure\\UstaPlatform.Infrastructure.csproj|c:\\users\\baris\\onedrive\\\uBB38\uC11C\\desktop\\new folder (3)\\bm1\\ustaplatform\\ustaplatform.infrastructure\\ustaplatform.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{27E10826-A5DC-465B-AEAF-3AEDDEA42ECF}|UstaPlatform.Infrastructure\\UstaPlatform.Infrastructure.csproj|solutionrelative:ustaplatform.infrastructure\\ustaplatform.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34325B9-2839-4D51-9E5F-A21185EC3D94}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|c:\\users\\baris\\onedrive\\\uBB38\uC11C\\desktop\\new folder (3)\\bm1\\ustaplatform\\ustaplatform.domain\\usta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34325B9-2839-4D51-9E5F-A21185EC3D94}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|solutionrelative:ustaplatform.domain\\usta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34325B9-2839-4D51-9E5F-A21185EC3D94}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|c:\\users\\baris\\onedrive\\\uBB38\uC11C\\desktop\\new folder (3)\\bm1\\ustaplatform\\ustaplatform.domain\\talep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34325B9-2839-4D51-9E5F-A21185EC3D94}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|solutionrelative:ustaplatform.domain\\talep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34325B9-2839-4D51-9E5F-A21185EC3D94}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|c:\\users\\baris\\onedrive\\\uBB38\uC11C\\desktop\\new folder (3)\\bm1\\ustaplatform\\ustaplatform.domain\\rota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34325B9-2839-4D51-9E5F-A21185EC3D94}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|solutionrelative:ustaplatform.domain\\rota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34325B9-2839-4D51-9E5F-A21185EC3D94}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|c:\\users\\baris\\onedrive\\\uBB38\uC11C\\desktop\\new folder (3)\\bm1\\ustaplatform\\ustaplatform.domain\\paraformatlayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34325B9-2839-4D51-9E5F-A21185EC3D94}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|solutionrelative:ustaplatform.domain\\paraformatlayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34325B9-2839-4D51-9E5F-A21185EC3D94}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|c:\\users\\baris\\onedrive\\\uBB38\uC11C\\desktop\\new folder (3)\\bm1\\ustaplatform\\ustaplatform.domain\\iworkorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34325B9-2839-4D51-9E5F-A21185EC3D94}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|solutionrelative:ustaplatform.domain\\iworkorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34325B9-2839-4D51-9E5F-A21185EC3D94}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|c:\\users\\baris\\onedrive\\\uBB38\uC11C\\desktop\\new folder (3)\\bm1\\ustaplatform\\ustaplatform.domain\\ipricingrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34325B9-2839-4D51-9E5F-A21185EC3D94}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|solutionrelative:ustaplatform.domain\\ipricingrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34325B9-2839-4D51-9E5F-A21185EC3D94}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|c:\\users\\baris\\onedrive\\\uBB38\uC11C\\desktop\\new folder (3)\\bm1\\ustaplatform\\ustaplatform.domain\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34325B9-2839-4D51-9E5F-A21185EC3D94}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|solutionrelative:ustaplatform.domain\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34325B9-2839-4D51-9E5F-A21185EC3D94}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|c:\\users\\baris\\onedrive\\\uBB38\uC11C\\desktop\\new folder (3)\\bm1\\ustaplatform\\ustaplatform.domain\\cizelge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34325B9-2839-4D51-9E5F-A21185EC3D94}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|solutionrelative:ustaplatform.domain\\cizelge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E91EA24-D297-4573-A26D-B24190C9B699}|UstaPlatform.Pricing\\UstaPlatform.Pricing.csproj|c:\\users\\baris\\onedrive\\\uBB38\uC11C\\desktop\\new folder (3)\\bm1\\ustaplatform\\ustaplatform.pricing\\haftasonuekucretikurali.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E91EA24-D297-4573-A26D-B24190C9B699}|UstaPlatform.Pricing\\UstaPlatform.Pricing.csproj|solutionrelative:ustaplatform.pricing\\haftasonuekucretikurali.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E91EA24-D297-4573-A26D-B24190C9B699}|UstaPlatform.Pricing\\UstaPlatform.Pricing.csproj|c:\\users\\baris\\onedrive\\\uBB38\uC11C\\desktop\\new folder (3)\\bm1\\ustaplatform\\ustaplatform.pricing\\acilcagriucretikurali.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E91EA24-D297-4573-A26D-B24190C9B699}|UstaPlatform.Pricing\\UstaPlatform.Pricing.csproj|solutionrelative:ustaplatform.pricing\\acilcagriucretikurali.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34325B9-2839-4D51-9E5F-A21185EC3D94}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|c:\\users\\baris\\onedrive\\\uBB38\uC11C\\desktop\\new folder (3)\\bm1\\ustaplatform\\ustaplatform.domain\\isemri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34325B9-2839-4D51-9E5F-A21185EC3D94}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|solutionrelative:ustaplatform.domain\\isemri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34325B9-2839-4D51-9E5F-A21185EC3D94}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|c:\\users\\baris\\onedrive\\\uBB38\uC11C\\desktop\\new folder (3)\\bm1\\ustaplatform\\ustaplatform.domain\\konumyardimcisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34325B9-2839-4D51-9E5F-A21185EC3D94}|UstaPlatform.Domain\\UstaPlatform.Domain.csproj|solutionrelative:ustaplatform.domain\\konumyardimcisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E10826-A5DC-465B-AEAF-3AEDDEA42ECF}|UstaPlatform.Infrastructure\\UstaPlatform.Infrastructure.csproj|c:\\users\\baris\\onedrive\\\uBB38\uC11C\\desktop\\new folder (3)\\bm1\\ustaplatform\\ustaplatform.infrastructure\\workorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E10826-A5DC-465B-AEAF-3AEDDEA42ECF}|UstaPlatform.Infrastructure\\UstaPlatform.Infrastructure.csproj|solutionrelative:ustaplatform.infrastructure\\workorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E91EA24-D297-4573-A26D-B24190C9B699}|UstaPlatform.Pricing\\UstaPlatform.Pricing.csproj|c:\\users\\baris\\onedrive\\\uBB38\uC11C\\desktop\\new folder (3)\\bm1\\ustaplatform\\ustaplatform.pricing\\pricingengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E91EA24-D297-4573-A26D-B24190C9B699}|UstaPlatform.Pricing\\UstaPlatform.Pricing.csproj|solutionrelative:ustaplatform.pricing\\pricingengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E91EA24-D297-4573-A26D-B24190C9B699}|UstaPlatform.Pricing\\UstaPlatform.Pricing.csproj|c:\\users\\baris\\onedrive\\\uBB38\uC11C\\desktop\\new folder (3)\\bm1\\ustaplatform\\ustaplatform.pricing\\ustaplatform.pricing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E91EA24-D297-4573-A26D-B24190C9B699}|UstaPlatform.Pricing\\UstaPlatform.Pricing.csproj|solutionrelative:ustaplatform.pricing\\ustaplatform.pricing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC9F8F2-75A6-4A2D-83BA-B6DF46F6A2E0}|UstaPlatform.App\\UstaPlatform.App.csproj|c:\\users\\baris\\onedrive\\\uBB38\uC11C\\desktop\\new folder (3)\\bm1\\ustaplatform\\ustaplatform.app\\ustaplatform.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9EC9F8F2-75A6-4A2D-83BA-B6DF46F6A2E0}|UstaPlatform.App\\UstaPlatform.App.csproj|solutionrelative:ustaplatform.app\\ustaplatform.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC9F8F2-75A6-4A2D-83BA-B6DF46F6A2E0}|UstaPlatform.App\\UstaPlatform.App.csproj|c:\\users\\baris\\onedrive\\\uBB38\uC11C\\desktop\\new folder (3)\\bm1\\ustaplatform\\ustaplatform.app\\ustaplatform.app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9EC9F8F2-75A6-4A2D-83BA-B6DF46F6A2E0}|UstaPlatform.App\\UstaPlatform.App.csproj|solutionrelative:ustaplatform.app\\ustaplatform.app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UstaPlatform.Domain",
+              "DocumentMoniker": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Domain\\UstaPlatform.Domain.csproj",
+              "RelativeDocumentMoniker": "UstaPlatform.Domain\\UstaPlatform.Domain.csproj",
+              "ToolTip": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Domain\\UstaPlatform.Domain.csproj",
+              "RelativeToolTip": "UstaPlatform.Domain\\UstaPlatform.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-22T14:05:45.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UstaPlatform.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Infrastructure\\UstaPlatform.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "UstaPlatform.Infrastructure\\UstaPlatform.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Infrastructure\\UstaPlatform.Infrastructure.csproj",
+              "RelativeToolTip": "UstaPlatform.Infrastructure\\UstaPlatform.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-22T11:48:49.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\Mahalle2\\Class1.cs",
+              "RelativeDocumentMoniker": "Mahalle2\\Class1.cs",
+              "ToolTip": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\Mahalle2\\Class1.cs",
+              "RelativeToolTip": "Mahalle2\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T11:26:19.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UstaPlatform.Pricing.csproj",
+              "DocumentMoniker": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Pricing\\UstaPlatform.Pricing.csproj",
+              "RelativeDocumentMoniker": "UstaPlatform.Pricing\\UstaPlatform.Pricing.csproj",
+              "ToolTip": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Pricing\\UstaPlatform.Pricing.csproj",
+              "RelativeToolTip": "UstaPlatform.Pricing\\UstaPlatform.Pricing.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-22T10:14:38.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UstaPlatform.App",
+              "DocumentMoniker": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.App\\UstaPlatform.App.csproj",
+              "RelativeDocumentMoniker": "UstaPlatform.App\\UstaPlatform.App.csproj",
+              "ToolTip": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.App\\UstaPlatform.App.csproj",
+              "RelativeToolTip": "UstaPlatform.App\\UstaPlatform.App.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-22T10:08:43.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WorkOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Infrastructure\\WorkOrderRepository.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Infrastructure\\WorkOrderRepository.cs",
+              "ToolTip": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Infrastructure\\WorkOrderRepository.cs",
+              "RelativeToolTip": "UstaPlatform.Infrastructure\\WorkOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:50:59.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AcilCagriUcretiKurali.cs",
+              "DocumentMoniker": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Pricing\\AcilCagriUcretiKurali.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Pricing\\AcilCagriUcretiKurali.cs",
+              "ToolTip": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Pricing\\AcilCagriUcretiKurali.cs",
+              "RelativeToolTip": "UstaPlatform.Pricing\\AcilCagriUcretiKurali.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:45:30.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HaftasonuEkUcretiKurali.cs",
+              "DocumentMoniker": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Pricing\\HaftasonuEkUcretiKurali.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Pricing\\HaftasonuEkUcretiKurali.cs",
+              "ToolTip": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Pricing\\HaftasonuEkUcretiKurali.cs",
+              "RelativeToolTip": "UstaPlatform.Pricing\\HaftasonuEkUcretiKurali.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:40:53.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PricingEngine.cs",
+              "DocumentMoniker": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Pricing\\PricingEngine.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Pricing\\PricingEngine.cs",
+              "ToolTip": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Pricing\\PricingEngine.cs",
+              "RelativeToolTip": "UstaPlatform.Pricing\\PricingEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:22:39.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "KonumYardimcisi.cs",
+              "DocumentMoniker": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Domain\\KonumYardimcisi.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Domain\\KonumYardimcisi.cs",
+              "ToolTip": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Domain\\KonumYardimcisi.cs",
+              "RelativeToolTip": "UstaPlatform.Domain\\KonumYardimcisi.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:20:49.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ParaFormatlayici.cs",
+              "DocumentMoniker": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Domain\\ParaFormatlayici.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Domain\\ParaFormatlayici.cs",
+              "ToolTip": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Domain\\ParaFormatlayici.cs",
+              "RelativeToolTip": "UstaPlatform.Domain\\ParaFormatlayici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:00:51.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Guard.cs",
+              "DocumentMoniker": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Domain\\Guard.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Domain\\Guard.cs",
+              "ToolTip": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Domain\\Guard.cs",
+              "RelativeToolTip": "UstaPlatform.Domain\\Guard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:09:07.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IWorkOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Domain\\IWorkOrderRepository.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Domain\\IWorkOrderRepository.cs",
+              "ToolTip": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Domain\\IWorkOrderRepository.cs",
+              "RelativeToolTip": "UstaPlatform.Domain\\IWorkOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:05:59.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPricingRule.cs",
+              "DocumentMoniker": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Domain\\IPricingRule.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Domain\\IPricingRule.cs",
+              "ToolTip": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Domain\\IPricingRule.cs",
+              "RelativeToolTip": "UstaPlatform.Domain\\IPricingRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:01:25.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cizelge.cs",
+              "DocumentMoniker": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Domain\\Cizelge.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Domain\\Cizelge.cs",
+              "ToolTip": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Domain\\Cizelge.cs",
+              "RelativeToolTip": "UstaPlatform.Domain\\Cizelge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T21:53:47.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rota.cs",
+              "DocumentMoniker": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Domain\\Rota.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Domain\\Rota.cs",
+              "ToolTip": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Domain\\Rota.cs",
+              "RelativeToolTip": "UstaPlatform.Domain\\Rota.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T21:44:30.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IsEmri.cs",
+              "DocumentMoniker": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Domain\\IsEmri.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Domain\\IsEmri.cs",
+              "ToolTip": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Domain\\IsEmri.cs",
+              "RelativeToolTip": "UstaPlatform.Domain\\IsEmri.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T21:36:15.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Talep.cs",
+              "DocumentMoniker": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Domain\\Talep.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Domain\\Talep.cs",
+              "ToolTip": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Domain\\Talep.cs",
+              "RelativeToolTip": "UstaPlatform.Domain\\Talep.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T21:32:57.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vatandas.cs",
+              "DocumentMoniker": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Domain\\Vatandas.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Domain\\Vatandas.cs",
+              "ToolTip": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Domain\\Vatandas.cs",
+              "RelativeToolTip": "UstaPlatform.Domain\\Vatandas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T21:29:07.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usta.cs",
+              "DocumentMoniker": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Domain\\Usta.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.Domain\\Usta.cs",
+              "ToolTip": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.Domain\\Usta.cs",
+              "RelativeToolTip": "UstaPlatform.Domain\\Usta.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T21:20:56.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UstaPlatform.App.csproj",
+              "DocumentMoniker": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.App\\UstaPlatform.App.csproj",
+              "RelativeDocumentMoniker": "UstaPlatform.App\\UstaPlatform.App.csproj",
+              "ToolTip": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.App\\UstaPlatform.App.csproj",
+              "RelativeToolTip": "UstaPlatform.App\\UstaPlatform.App.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-21T21:13:16.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.App\\Program.cs",
+              "RelativeDocumentMoniker": "UstaPlatform.App\\Program.cs",
+              "ToolTip": "C:\\Users\\baris\\OneDrive\\\uBB38\uC11C\\Desktop\\New folder (3)\\bm1\\UstaPlatform\\UstaPlatform.App\\Program.cs",
+              "RelativeToolTip": "UstaPlatform.App\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T21:08:19.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\UstaPlatform.Domain\bin\Debug\net8.0\UstaPlatform.Domain.deps.json
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\UstaPlatform.Domain\bin\Debug\net8.0\UstaPlatform.Domain.dll
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\UstaPlatform.Domain\bin\Debug\net8.0\UstaPlatform.Domain.pdb
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\UstaPlatform.Domain\obj\Debug\net8.0\UstaPlatform.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\UstaPlatform.Domain\obj\Debug\net8.0\UstaPlatform.Domain.AssemblyInfoInputs.cache
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\UstaPlatform.Domain\obj\Debug\net8.0\UstaPlatform.Domain.AssemblyInfo.cs
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\UstaPlatform.Domain\obj\Debug\net8.0\UstaPlatform.Domain.csproj.CoreCompileInputs.cache
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\UstaPlatform.Domain\obj\Debug\net8.0\UstaPlatform.Domain.dll
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\UstaPlatform.Domain\obj\Debug\net8.0\refint\UstaPlatform.Domain.dll
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\UstaPlatform.Domain\obj\Debug\net8.0\UstaPlatform.Domain.pdb
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\UstaPlatform.Domain\obj\Debug\net8.0\ref\UstaPlatform.Domain.dll
