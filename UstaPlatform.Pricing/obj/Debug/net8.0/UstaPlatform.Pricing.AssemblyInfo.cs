@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UstaPlatform.Pricing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49c89d09cf3925673b5a614118828dae8063a04a")]
 [assembly: System.Reflection.AssemblyProductAttribute("UstaPlatform.Pricing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UstaPlatform.Pricing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

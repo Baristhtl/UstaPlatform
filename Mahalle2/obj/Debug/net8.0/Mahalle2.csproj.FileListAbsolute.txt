@@ -1,0 +1,16 @@
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\Mahalle2\obj\Debug\net8.0\Mahalle2.csproj.AssemblyReference.cache
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\Mahalle2\obj\Debug\net8.0\Mahalle2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\Mahalle2\obj\Debug\net8.0\Mahalle2.AssemblyInfoInputs.cache
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\Mahalle2\obj\Debug\net8.0\Mahalle2.AssemblyInfo.cs
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\Mahalle2\obj\Debug\net8.0\Mahalle2.csproj.CoreCompileInputs.cache
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\Mahalle2\obj\Debug\net8.0\Mahalle2.sourcelink.json
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\Mahalle2\bin\Debug\net8.0\Mahalle2.deps.json
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\Mahalle2\bin\Debug\net8.0\Mahalle2.dll
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\Mahalle2\bin\Debug\net8.0\Mahalle2.pdb
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\Mahalle2\bin\Debug\net8.0\UstaPlatform.Domain.dll
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\Mahalle2\bin\Debug\net8.0\UstaPlatform.Domain.pdb
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\Mahalle2\obj\Debug\net8.0\Mahalle2.csproj.Up2Date
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\Mahalle2\obj\Debug\net8.0\Mahalle2.dll
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\Mahalle2\obj\Debug\net8.0\refint\Mahalle2.dll
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\Mahalle2\obj\Debug\net8.0\Mahalle2.pdb
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\Mahalle2\obj\Debug\net8.0\ref\Mahalle2.dll

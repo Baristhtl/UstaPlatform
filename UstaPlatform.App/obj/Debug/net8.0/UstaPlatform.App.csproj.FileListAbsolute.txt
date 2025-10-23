@@ -20,3 +20,4 @@ C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\UstaPlatf
 C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\UstaPlatform.App\bin\Debug\net8.0\UstaPlatform.Pricing.pdb
 C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\UstaPlatform.App\bin\Debug\net8.0\UstaPlatform.Infrastructure.dll
 C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\UstaPlatform.App\bin\Debug\net8.0\UstaPlatform.Infrastructure.pdb
+C:\Users\baris\OneDrive\문서\Desktop\New folder (3)\bm1\UstaPlatform\UstaPlatform.App\obj\Debug\net8.0\UstaPlatform.App.sourcelink.json
